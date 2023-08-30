@@ -1,0 +1,85 @@
+//Aula
+
+//this is a js  file
+
+
+/*
+
+function imprimirOlaMundo() {
+console.log("Ola Mundo!")
+}
+imprimirOlaMundo();
+
+*/
+
+//Exercicio2
+/*
+
+
+function escreveNome(nome){
+console.log(nome);
+}
+escreveNome("Gean");      
+
+*/
+/*
+const a = 1
+
+function imprimeVariavel () {
+const b = 2
+console.log('Variável a', a)   
+console.log('Variável b', b)
+};
+
+imprimeVariavel();
+
+console.log('Variável a', a);   
+console.log('Variável b', b);
+
+*/
+
+//
+
+/*
+
+
+function calculaArea(altura, largura) {
+    const area = altura * largura
+    return area
+}
+
+const areaCalculada = calculaArea(5, 8)
+console.log("Variável areaCalulada: "+ areaCalculada);
+console.log("Chamada da função crua: "+ calculaArea(5, 8));
+
+*/
+
+//Exercicio 3
+/*
+
+function calcularNumero (oito, dois) {
+    const numero = oito * dois;
+    return numero;
+}
+
+const numeroCalculado = calcularNumero(8, 2);
+
+console.log("Variavel numeroCalculado: "+ numeroCalculado);
+console.log("Chamada da função crua: "+ calcularNumero(8, 2));
+*/
+
+
+//Exercicio 4 
+/*
+
+function divideArray(meuArray){
+let b = [(meuArray[0] /2), (meuArray[meuArray.length-1] /2)];   
+       
+return b;
+}
+let a = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24];
+
+const resultado = divideArray(a)
+console.log(resultado);
+
+*/
